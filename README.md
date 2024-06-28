@@ -1,7 +1,6 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <h1 align="center">Hi 👋, I'm Habiba Ahmed</h1>
 <h3 align="center">A passionate software engineering from Egypt</h3>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="200">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habibaaahmed&label=Profile%20views&color=0e75b6&style=flat" alt="habibaaahmed" /> </p>
 
 - 📫 How to reach me **habibaahmedalaa2@gmail.com**
